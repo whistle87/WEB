@@ -1,0 +1,25 @@
+h1{
+    color: chocolate;
+}
+h2{
+    color: rgb(156, 77, 48);
+}
+h3{
+    color: cornflowerblue;
+}
+ul{
+    list-style-type: armenian;
+}
+html{
+    background-color: burlywood;
+}
+img{
+    width: 300px;
+    margin-left: 100px;
+}
+a{
+    color: deeppink;
+}
+a:hover{
+    color: darkgoldenrod;
+}
